@@ -1,0 +1,27 @@
+[
+  {
+    "language": "Kannada",
+    "input": "namaskara naanu",
+    "reference": "ನಮಸ್ಕಾರ ನಾನು"
+  },
+  {
+    "language": "Hindi",
+    "input": "namaste mujhe madad karo",
+    "reference": "नमस्ते मुझे मदद करो"
+  },
+  {
+    "language": "Tamil",
+    "input": "vanakkam naan",
+    "reference": "வணக்கம் நான்"
+  },
+  {
+    "language": "Kannada",
+    "input": "dayavittu nanage help maadi",
+    "reference": "ದಯವಿಟ್ಟು ನನಗೆ help ಮಾಡಿ"
+  },
+  {
+    "language": "Hindi",
+    "input": "kal mera exam hai",
+    "reference": "कल मेरा एग्ज़ाम है"
+  }
+]
